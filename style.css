@@ -61,3 +61,8 @@ label {
     bottom: 0;
     padding-bottom: 20px;
 }
+@media (max-width: 600px) {
+    .container {
+        width: 80%;
+    }
+}
